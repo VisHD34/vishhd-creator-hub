@@ -2,7 +2,7 @@ name: Refresh Twitch clips
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch genuine VishHD clips
+      - name: Fetch genuine VishHD channel data
         env:
           TWITCH_CLIENT_ID: q2rqfmmu04m5l0p65fqzcm3soz4xw0
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
@@ -26,16 +26,22 @@ jobs:
           broadcaster_id=$(curl --fail --silent --show-error \
             -H "Client-Id: ${TWITCH_CLIENT_ID}" -H "Authorization: Bearer ${token}" \
             'https://api.twitch.tv/helix/users?login=vishd' | jq -r '.data[0].id')
+          updated=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          curl --fail --silent --show-error \
+            -H "Client-Id: ${TWITCH_CLIENT_ID}" -H "Authorization: Bearer ${token}" \
+            "https://api.twitch.tv/helix/streams?user_id=${broadcaster_id}" \
+            | jq --arg updated "${updated}" '{updatedAt:$updated,live:(.data|length>0),stream:(.data[0] // null | if . == null then null else {title,game:.game_name,viewerCount:.viewer_count,startedAt:.started_at} end)}' \
+            > data/status.json
           start=$(date -u -d '7 days ago' +'%Y-%m-%dT%H:%M:%SZ')
           end=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
           curl --fail --silent --show-error \
             -H "Client-Id: ${TWITCH_CLIENT_ID}" -H "Authorization: Bearer ${token}" \
             "https://api.twitch.tv/helix/clips?broadcaster_id=${broadcaster_id}&started_at=${start}&ended_at=${end}&first=100" \
-            | jq --arg updated "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" '{updatedAt:$updated,period:"last_7_days",clips:(.data|sort_by(.view_count)|reverse|.[0:10]|map({id,title,url,thumbnail:(.thumbnail_url|sub("-preview-[0-9]+x[0-9]+\\.jpg$";"-preview-480x272.jpg")),views:.view_count,creator:.creator_name,game:.game_name,createdAt:.created_at}))}' \
+            | jq --arg updated "${updated}" '{updatedAt:$updated,period:"last_7_days",clips:(.data|sort_by(.view_count)|reverse|.[0:10]|map({id,title,url,thumbnail:(.thumbnail_url|sub("-preview-[0-9]+x[0-9]+\\.jpg$";"-preview-480x272.jpg")),views:.view_count,creator:.creator_name,game:.game_name,createdAt:.created_at}))}' \
             > data/clips.json
       - name: Commit changes only when clips changed
         run: |
           git config user.name 'VishHD clip updater'
           git config user.email 'actions@github.com'
-          git add data/clips.json
+          git add data/clips.json data/status.json
           git diff --cached --quiet || (git commit -m 'Refresh Twitch top clips' && git push)
