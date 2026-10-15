@@ -1,5 +1,10 @@
 {
-  "updatedAt": "2026-10-15T17:07:39Z",
-  "live": false,
-  "stream": null
+  "updatedAt": "2026-10-15T20:22:58Z",
+  "live": true,
+  "stream": {
+    "title": "Eclipse RP Medic Life | Emergency Calls & Hospital RP",
+    "game": "Grand Theft Auto V",
+    "viewerCount": 1,
+    "startedAt": "2026-10-15T20:01:21Z"
+  }
 }
