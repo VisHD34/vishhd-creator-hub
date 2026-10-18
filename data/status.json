@@ -1,5 +1,10 @@
 {
-  "updatedAt": "2026-10-18T18:40:58Z",
-  "live": false,
-  "stream": null
+  "updatedAt": "2026-10-18T21:33:09Z",
+  "live": true,
+  "stream": {
+    "title": "Resident Evil Requiem: Survival Horror on the Edge",
+    "game": "RESIDENT EVIL: requiem",
+    "viewerCount": 2,
+    "startedAt": "2026-10-18T20:06:08Z"
+  }
 }
