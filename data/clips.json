@@ -1,5 +1,16 @@
 {
-  "updatedAt": "2026-10-18T21:33:09Z",
+  "updatedAt": "2026-10-19T00:13:41Z",
   "period": "last_7_days",
-  "clips": []
+  "clips": [
+    {
+      "id": "FragileBoredManateeEleGiggle-kN---gfwmb1QVjuG",
+      "title": "f you to the moon!",
+      "url": "https://www.twitch.tv/vishd/clip/FragileBoredManateeEleGiggle-kN---gfwmb1QVjuG",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b391c1fd-4464-46fc-8d2d-a846b750aeab/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "creator": "ADHD_Monkey1",
+      "game": null,
+      "createdAt": "2026-10-18T22:05:04Z"
+    }
+  ]
 }
