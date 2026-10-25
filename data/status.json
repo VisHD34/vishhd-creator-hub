@@ -1,5 +1,10 @@
 {
-  "updatedAt": "2026-10-25T19:42:42Z",
-  "live": false,
-  "stream": null
+  "updatedAt": "2026-10-25T22:37:26Z",
+  "live": true,
+  "stream": {
+    "title": "Rideshare Sim: Pickup Runs, Fares, and City Hustle",
+    "game": "Rideshare \"Stimulator\"",
+    "viewerCount": 2,
+    "startedAt": "2026-10-25T20:52:07Z"
+  }
 }
