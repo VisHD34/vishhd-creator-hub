@@ -1,10 +1,5 @@
 {
-  "updatedAt": "2026-10-27T06:22:42Z",
-  "live": true,
-  "stream": {
-    "title": "Roko Kingdom | Just Chatting with the community",
-    "game": "Just Chatting",
-    "viewerCount": 1,
-    "startedAt": "2026-10-27T05:41:18Z"
-  }
+  "updatedAt": "2026-10-27T13:19:14Z",
+  "live": false,
+  "stream": null
 }
