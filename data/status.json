@@ -1,5 +1,10 @@
 {
-  "updatedAt": "2026-10-28T18:54:37Z",
-  "live": false,
-  "stream": null
+  "updatedAt": "2026-10-28T23:17:21Z",
+  "live": true,
+  "stream": {
+    "title": "Resident Evil Requiem: Survival Horror in the Dark",
+    "game": "RESIDENT EVIL: requiem",
+    "viewerCount": 1,
+    "startedAt": "2026-10-28T22:53:53Z"
+  }
 }
