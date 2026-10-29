@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T05:56:15Z",
+  "updatedAt": "2026-10-29T13:13:31Z",
   "period": "last_7_days",
   "clips": [
     {
@@ -33,16 +33,6 @@
       "createdAt": "2026-10-29T00:09:02Z"
     },
     {
-      "id": "YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
-      "title": "Resident Evil Requiem: Survival Horror in the Dark",
-      "url": "https://www.twitch.tv/vishd/clip/YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fbc6b6fc-e425-4726-80cb-2922f2535780/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
-      "creator": "VisHD",
-      "game": null,
-      "createdAt": "2026-10-29T00:52:00Z"
-    },
-    {
       "id": "PlausibleAgreeableVanillaBuddhaBar-77qIALrufEUVWoGE",
       "title": "Resident Evil Requiem: Survival Horror in the Dark",
       "url": "https://www.twitch.tv/vishd/clip/PlausibleAgreeableVanillaBuddhaBar-77qIALrufEUVWoGE",
@@ -51,6 +41,16 @@
       "creator": "VisHD",
       "game": null,
       "createdAt": "2026-10-29T00:54:32Z"
+    },
+    {
+      "id": "YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
+      "title": "Resident Evil Requiem: Survival Horror in the Dark",
+      "url": "https://www.twitch.tv/vishd/clip/YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fbc6b6fc-e425-4726-80cb-2922f2535780/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "creator": "VisHD",
+      "game": null,
+      "createdAt": "2026-10-29T00:52:00Z"
     }
   ]
 }
