@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:05:39Z",
+  "updatedAt": "2026-10-30T18:39:52Z",
   "period": "last_7_days",
   "clips": [
     {
@@ -7,7 +7,7 @@
       "title": "Resident Evil Requiem: Survival Horror in the Dark",
       "url": "https://www.twitch.tv/vishd/clip/ShySwissGnatJKanStyle-rRai9KD7M5g4lf3X",
       "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/459a3a17-90ed-4fd5-91e7-f11e349e7f86/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 13,
+      "views": 14,
       "creator": "VisHD",
       "game": null,
       "createdAt": "2026-10-25T22:19:14Z"
@@ -23,14 +23,14 @@
       "createdAt": "2026-10-27T06:20:41Z"
     },
     {
-      "id": "YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
+      "id": "CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
       "title": "Resident Evil Requiem: Survival Horror in the Dark",
-      "url": "https://www.twitch.tv/vishd/clip/YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fbc6b6fc-e425-4726-80cb-2922f2535780/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "url": "https://www.twitch.tv/vishd/clip/CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/db0204e8-8f43-46df-ad77-10f7002424b5/landscape/thumb/thumb-0000000000-480x272.jpg",
       "views": 2,
       "creator": "VisHD",
       "game": null,
-      "createdAt": "2026-10-29T00:52:00Z"
+      "createdAt": "2026-10-29T00:09:02Z"
     },
     {
       "id": "PlausibleAgreeableVanillaBuddhaBar-77qIALrufEUVWoGE",
@@ -43,14 +43,14 @@
       "createdAt": "2026-10-29T00:54:32Z"
     },
     {
-      "id": "CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
+      "id": "YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
       "title": "Resident Evil Requiem: Survival Horror in the Dark",
-      "url": "https://www.twitch.tv/vishd/clip/CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/db0204e8-8f43-46df-ad77-10f7002424b5/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "url": "https://www.twitch.tv/vishd/clip/YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fbc6b6fc-e425-4726-80cb-2922f2535780/landscape/thumb/thumb-0000000000-480x272.jpg",
       "views": 2,
       "creator": "VisHD",
       "game": null,
-      "createdAt": "2026-10-29T00:09:02Z"
+      "createdAt": "2026-10-29T00:52:00Z"
     }
   ]
 }
