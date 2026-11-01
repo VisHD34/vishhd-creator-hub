@@ -1,17 +1,7 @@
 {
-  "updatedAt": "2026-11-01T19:44:34Z",
+  "updatedAt": "2026-11-01T23:40:19Z",
   "period": "last_7_days",
   "clips": [
-    {
-      "id": "ShySwissGnatJKanStyle-rRai9KD7M5g4lf3X",
-      "title": "Resident Evil Requiem: Survival Horror in the Dark",
-      "url": "https://www.twitch.tv/vishd/clip/ShySwissGnatJKanStyle-rRai9KD7M5g4lf3X",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/459a3a17-90ed-4fd5-91e7-f11e349e7f86/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 15,
-      "creator": "VisHD",
-      "game": null,
-      "createdAt": "2026-10-25T22:19:14Z"
-    },
     {
       "id": "BombasticMushyTireTheTarFu-sh6YbCldQW5FSmNd",
       "title": "Roko Kingdom | Just Chatting with the community",
@@ -33,16 +23,6 @@
       "createdAt": "2026-10-29T00:54:32Z"
     },
     {
-      "id": "YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
-      "title": "Resident Evil Requiem: Survival Horror in the Dark",
-      "url": "https://www.twitch.tv/vishd/clip/YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fbc6b6fc-e425-4726-80cb-2922f2535780/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
-      "creator": "VisHD",
-      "game": null,
-      "createdAt": "2026-10-29T00:52:00Z"
-    },
-    {
       "id": "CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
       "title": "Resident Evil Requiem: Survival Horror in the Dark",
       "url": "https://www.twitch.tv/vishd/clip/CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
@@ -51,6 +31,16 @@
       "creator": "VisHD",
       "game": null,
       "createdAt": "2026-10-29T00:09:02Z"
+    },
+    {
+      "id": "YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
+      "title": "Resident Evil Requiem: Survival Horror in the Dark",
+      "url": "https://www.twitch.tv/vishd/clip/YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fbc6b6fc-e425-4726-80cb-2922f2535780/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 2,
+      "creator": "VisHD",
+      "game": null,
+      "createdAt": "2026-10-29T00:52:00Z"
     },
     {
       "id": "EsteemedTsundereZucchiniTBTacoRight-y4C7xROpNMpARMRv",
