@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:18:45Z",
+  "updatedAt": "2026-11-01T19:44:34Z",
   "period": "last_7_days",
   "clips": [
     {
@@ -27,20 +27,10 @@
       "title": "Resident Evil Requiem: Survival Horror in the Dark",
       "url": "https://www.twitch.tv/vishd/clip/PlausibleAgreeableVanillaBuddhaBar-77qIALrufEUVWoGE",
       "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b3c2339b-62a9-4819-a42e-42edb34282ca/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
+      "views": 3,
       "creator": "VisHD",
       "game": null,
       "createdAt": "2026-10-29T00:54:32Z"
-    },
-    {
-      "id": "CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
-      "title": "Resident Evil Requiem: Survival Horror in the Dark",
-      "url": "https://www.twitch.tv/vishd/clip/CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/db0204e8-8f43-46df-ad77-10f7002424b5/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
-      "creator": "VisHD",
-      "game": null,
-      "createdAt": "2026-10-29T00:09:02Z"
     },
     {
       "id": "YawningCalmScorpionRalpherZ-KkXlnYEydLad77MB",
@@ -51,6 +41,16 @@
       "creator": "VisHD",
       "game": null,
       "createdAt": "2026-10-29T00:52:00Z"
+    },
+    {
+      "id": "CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
+      "title": "Resident Evil Requiem: Survival Horror in the Dark",
+      "url": "https://www.twitch.tv/vishd/clip/CogentInnocentPuffinDoritosChip-tUa19Gu2xXfZMH7G",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/db0204e8-8f43-46df-ad77-10f7002424b5/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 2,
+      "creator": "VisHD",
+      "game": null,
+      "createdAt": "2026-10-29T00:09:02Z"
     },
     {
       "id": "EsteemedTsundereZucchiniTBTacoRight-y4C7xROpNMpARMRv",
