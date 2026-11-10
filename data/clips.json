@@ -1,36 +1,5 @@
 {
-  "updatedAt": "2026-11-09T18:53:21Z",
+  "updatedAt": "2026-11-10T02:12:58Z",
   "period": "last_7_days",
-  "clips": [
-    {
-      "id": "DeafAmusedFennelCorgiDerp-PdvyvfXPmSU7LHNu",
-      "title": "Resident Evil Requiem: Survival Horror in the Dark",
-      "url": "https://www.twitch.tv/vishd/clip/DeafAmusedFennelCorgiDerp-PdvyvfXPmSU7LHNu",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c6e33b6a-6233-4b11-93f4-d456a7bb1f48/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 3,
-      "creator": "VisHD",
-      "game": null,
-      "createdAt": "2026-11-02T21:52:52Z"
-    },
-    {
-      "id": "OptimisticEsteemedAnacondaBabyRage-oBIk5fJkgbz7hWy9",
-      "title": "Resident Evil Requiem: Survival Horror in the Dark",
-      "url": "https://www.twitch.tv/vishd/clip/OptimisticEsteemedAnacondaBabyRage-oBIk5fJkgbz7hWy9",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ec164e76-ee34-41df-874f-efd414da1f0e/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
-      "creator": "VisHD",
-      "game": null,
-      "createdAt": "2026-11-02T22:13:52Z"
-    },
-    {
-      "id": "AntediluvianHyperSlothPogChamp-_39R-qCidmIv8xpz",
-      "title": "Resident Evil Requiem: Survival Horror in the Dark",
-      "url": "https://www.twitch.tv/vishd/clip/AntediluvianHyperSlothPogChamp-_39R-qCidmIv8xpz",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2ff8ae0d-7776-40fa-adff-a52009354a68/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
-      "creator": "VisHD",
-      "game": null,
-      "createdAt": "2026-11-02T22:29:07Z"
-    }
-  ]
+  "clips": []
 }
