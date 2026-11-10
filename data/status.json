@@ -1,5 +1,10 @@
 {
-  "updatedAt": "2026-11-10T17:55:30Z",
-  "live": false,
-  "stream": null
+  "updatedAt": "2026-11-10T23:28:33Z",
+  "live": true,
+  "stream": {
+    "title": "League of Legends Classic: Old-School Rift Action",
+    "game": "League of Legends",
+    "viewerCount": 1,
+    "startedAt": "2026-11-10T20:40:08Z"
+  }
 }
