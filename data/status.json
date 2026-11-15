@@ -1,5 +1,10 @@
 {
-  "updatedAt": "2026-11-15T17:48:36Z",
-  "live": false,
-  "stream": null
+  "updatedAt": "2026-11-15T22:55:42Z",
+  "live": true,
+  "stream": {
+    "title": "Airport Contraband: Screening Bags and Finding Hidden Items",
+    "game": "Airport Contraband",
+    "viewerCount": 10,
+    "startedAt": "2026-11-15T21:00:28Z"
+  }
 }
