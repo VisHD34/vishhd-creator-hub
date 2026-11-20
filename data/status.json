@@ -1,10 +1,5 @@
 {
-  "updatedAt": "2026-11-19T22:13:49Z",
-  "live": true,
-  "stream": {
-    "title": "Assassin's Creed Syndicate Live Stream: Stealth, Parkour, Chaos",
-    "game": "Assassin's Creed Syndicate",
-    "viewerCount": 2,
-    "startedAt": "2026-11-19T21:00:10Z"
-  }
+  "updatedAt": "2026-11-20T03:29:26Z",
+  "live": false,
+  "stream": null
 }
