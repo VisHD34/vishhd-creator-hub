@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:13:44Z",
+  "updatedAt": "2026-11-27T02:56:14Z",
   "period": "last_7_days",
   "clips": [
     {
@@ -11,6 +11,26 @@
       "creator": "VisHD",
       "game": null,
       "createdAt": "2026-11-21T22:11:17Z"
+    },
+    {
+      "id": "TangibleFamousRadicchioPJSalt-0XxDhly9Ff0CUjzF",
+      "title": "God of War Ragnarök: Action, Boss Fights, and Story",
+      "url": "https://www.twitch.tv/vishd/clip/TangibleFamousRadicchioPJSalt-0XxDhly9Ff0CUjzF",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/678d46e2-e192-4a46-9b60-8cfd10f5f843/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "creator": "VisHD",
+      "game": null,
+      "createdAt": "2026-11-26T23:00:13Z"
+    },
+    {
+      "id": "GrossAmusedNarwhalSmoocherZ-zx4gtnj8gdbdasVK",
+      "title": "God of War Ragnarök: Action, Boss Fights, and Story",
+      "url": "https://www.twitch.tv/vishd/clip/GrossAmusedNarwhalSmoocherZ-zx4gtnj8gdbdasVK",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3c808802-b0f1-4791-9722-538c58e318d9/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "creator": "VisHD",
+      "game": null,
+      "createdAt": "2026-11-27T00:45:01Z"
     }
   ]
 }
