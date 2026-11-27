@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T12:39:52Z",
+  "updatedAt": "2026-11-27T22:03:59Z",
   "period": "last_7_days",
   "clips": [
     {
@@ -17,7 +17,7 @@
       "title": "God of War Ragnarök: Action, Boss Fights, and Story",
       "url": "https://www.twitch.tv/vishd/clip/TangibleFamousRadicchioPJSalt-0XxDhly9Ff0CUjzF",
       "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/678d46e2-e192-4a46-9b60-8cfd10f5f843/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
+      "views": 2,
       "creator": "VisHD",
       "game": null,
       "createdAt": "2026-11-26T23:00:13Z"
@@ -31,6 +31,26 @@
       "creator": "VisHD",
       "game": null,
       "createdAt": "2026-11-27T00:45:01Z"
+    },
+    {
+      "id": "ArtsyRelatedHerdWutFace-wABQRs03pF_z2gM6",
+      "title": "South Park: The Stick of Truth | Cartman Chaos & RPG Mayhem",
+      "url": "https://www.twitch.tv/vishd/clip/ArtsyRelatedHerdWutFace-wABQRs03pF_z2gM6",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/142a3fee-0657-40b6-8ba8-0ae54c1f314d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "creator": "VisHD",
+      "game": null,
+      "createdAt": "2026-11-27T21:42:14Z"
+    },
+    {
+      "id": "ResilientTalentedFloofPeanutButterJellyTime-FxQF8zf6Jbk4SQpi",
+      "title": "South Park: The Stick of Truth | Cartman Chaos & RPG Mayhem",
+      "url": "https://www.twitch.tv/vishd/clip/ResilientTalentedFloofPeanutButterJellyTime-FxQF8zf6Jbk4SQpi",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/bfc2302a-caf9-4f18-b283-a0651e5a82a1/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "creator": "VisHD",
+      "game": null,
+      "createdAt": "2026-11-27T21:23:28Z"
     }
   ]
 }
