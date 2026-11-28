@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:03:59Z",
+  "updatedAt": "2026-11-28T03:58:09Z",
   "period": "last_7_days",
   "clips": [
     {
@@ -23,14 +23,14 @@
       "createdAt": "2026-11-26T23:00:13Z"
     },
     {
-      "id": "GrossAmusedNarwhalSmoocherZ-zx4gtnj8gdbdasVK",
-      "title": "God of War Ragnarök: Action, Boss Fights, and Story",
-      "url": "https://www.twitch.tv/vishd/clip/GrossAmusedNarwhalSmoocherZ-zx4gtnj8gdbdasVK",
-      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3c808802-b0f1-4791-9722-538c58e318d9/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "id": "GoodSpikyManateeKappaPride-i3C-C6xGAbAJ8GEy",
+      "title": "South Park: The Stick of Truth | Cartman Chaos & RPG Mayhem",
+      "url": "https://www.twitch.tv/vishd/clip/GoodSpikyManateeKappaPride-i3C-C6xGAbAJ8GEy",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/76e1942b-936c-412f-9189-341ea298ab37/landscape/thumb/thumb-0000000000-480x272.jpg",
       "views": 1,
       "creator": "VisHD",
       "game": null,
-      "createdAt": "2026-11-27T00:45:01Z"
+      "createdAt": "2026-11-27T23:17:14Z"
     },
     {
       "id": "ArtsyRelatedHerdWutFace-wABQRs03pF_z2gM6",
@@ -51,6 +51,16 @@
       "creator": "VisHD",
       "game": null,
       "createdAt": "2026-11-27T21:23:28Z"
+    },
+    {
+      "id": "GrossAmusedNarwhalSmoocherZ-zx4gtnj8gdbdasVK",
+      "title": "God of War Ragnarök: Action, Boss Fights, and Story",
+      "url": "https://www.twitch.tv/vishd/clip/GrossAmusedNarwhalSmoocherZ-zx4gtnj8gdbdasVK",
+      "thumbnail": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3c808802-b0f1-4791-9722-538c58e318d9/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "creator": "VisHD",
+      "game": null,
+      "createdAt": "2026-11-27T00:45:01Z"
     }
   ]
 }
